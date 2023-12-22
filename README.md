@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhmoth
+- 👋 Hi, I’m Shubh Gupta
 - 👀 I’m interested in solving coding problems.
 - 🌱 I’m currently trying my hands on Web Development.
 - 💞️ I’m looking for SDE Intern role.
