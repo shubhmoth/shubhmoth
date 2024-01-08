@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubh Gupta
+- 👋 Hi, I’m Shubh Gupta (SG)
 - 👀 I’m interested in solving coding problems.
 - 🌱 I’m currently trying my hands on Web Development.
 - 💞️ I’m looking for SDE Intern role.
