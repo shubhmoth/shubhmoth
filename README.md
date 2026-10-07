@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shubh Gupta (SG)
-- 👀 I’m interested in solving coding problems.
-- 🌱 I’m currently trying my hands on Web Development.
-- 💞️ I’m looking for Software Developer Role.
+- 👀 I’m passionate about solving complex coding problems.
+- 🌱 I’m currently working as SDE in IDFC First Bank.
 - 📫 You can reach me on Linkedln /shubhmoth
 
 <!---
